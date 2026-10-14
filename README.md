@@ -9,17 +9,17 @@
 ⛔️ *In Development
 # 📋 Features
 **Menu Tab**<br>
-Auto Answer<br>
-Change Coins Amount<br>
-Infinite Powerups<br>
-Unlock All<br>
-Auto Open Boxes<br>
-Auto Create Aura’s<br>
+✅Auto Answer<br>
+⚠️Change Coins Amount (CS)<br>
+❌Infinite Powerups<br>
+⛔️Unlock All<br>
+⛔️Auto Open Boxes<br>
+❌Auto Create Aura’s<br>
 
 **Theme Tab (for menu)**<br>
-Purple Gradient Color (default)<br>
-Blue Gradient Color<br>
-Green Gradient Color<br>
+🟣Purple Gradient Color (default)<br>
+🔵Blue Gradient Color<br>
+🟢Green Gradient Color<br>
 Remove Float Button (after menu close)<br>
 
 **Credits Tab**<br>
@@ -30,7 +30,7 @@ Remove Float Button (after menu close)<br>
 
 # Showcases 
 
-Watch the menu showcase (here!)[google.com]
+Watch the menu showcase [here!](google.com)
 
 Menu made in Javascript.<br>
 “Nexura" by TRJacob96 is licensed under CC BY-NC 4.0
