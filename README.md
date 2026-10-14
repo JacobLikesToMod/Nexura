@@ -3,10 +3,10 @@
 
 # ⚠️ IF Quizizz Inc. WOULD LIKE THIS TAKEN DOWN, CONTACT: turboraidz.business@gmail.com ⚠️
 # 🔑 Key 
-✅ *Working*
-⚠️ *Buggy Or Client Sided*
-❌ *Not Working*
-⛔️ *In Development
+✅ *Working*<br>
+⚠️ *Buggy Or Client Sided*<br>
+❌ *Not Working*<br>
+⛔️ *In Development*<br>
 # 📋 Features
 **Menu Tab**<br>
 ✅Auto Answer<br>
