@@ -8,7 +8,7 @@
 ❌ *Not Working*
 ⛔️ *In Development
 # 📋 Features
-**Menu Tab**
+**Menu Tab**<br>
 Auto Answer<br>
 Change Coins Amount<br>
 Infinite Powerups<br>
@@ -16,13 +16,13 @@ Unlock All<br>
 Auto Open Boxes<br>
 Auto Create Aura’s<br>
 
-**Theme Tab (for menu)**
-Purple Gradient Color (default)
-Blue Gradient Color
-Green Gradient Color
-Remove Float Button (after menu close)
+**Theme Tab (for menu)**<br>
+Purple Gradient Color (default)<br>
+Blue Gradient Color<br>
+Green Gradient Color<br>
+Remove Float Button (after menu close)<br>
 
-**Credits Tab**
+**Credits Tab**<br>
 
  me lol (TRJacob53)
 
@@ -32,7 +32,7 @@ Remove Float Button (after menu close)
 
 Watch the menu showcase (here!)[google.com]
 
-Menu made in Javascript.
+Menu made in Javascript.<br>
 “Nexura" by TRJacob96 is licensed under CC BY-NC 4.0
 
 Check out the License.
