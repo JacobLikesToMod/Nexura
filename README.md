@@ -9,12 +9,12 @@
 ⛔️ *In Development
 # 📋 Features
 **Menu Tab**
-Auto Answer
-Change Coins Amount
-Infinite Powerups
-Unlock All
-Auto Open Boxes
-Auto Create Aura’s
+Auto Answer<br>
+Change Coins Amount<br>
+Infinite Powerups<br>
+Unlock All<br>
+Auto Open Boxes<br>
+Auto Create Aura’s<br>
 
 **Theme Tab (for menu)**
 Purple Gradient Color (default)
